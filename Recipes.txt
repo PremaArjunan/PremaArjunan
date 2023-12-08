@@ -4,4 +4,5 @@ kheer
 pasta
 
 chicken fry
+egg fry
 
